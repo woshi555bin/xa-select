@@ -1,13 +1,14 @@
 {
-  "name": "xa-select",
+  "name": "<%=name%>",
   "version": "1.1.1",
-  "description": "",
+  "description": "<%=description%>",
+  "private":"<%=private%>",
   "main": "./dist/bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack "
   },
-  "author": "",
+  "author": "<%=author%>",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",

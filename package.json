@@ -1,5 +1,5 @@
 {
-  "name": "<%=name%>",
+  "name": "",
   "version": "1.1.1",
   "description": "<%=description%>",
   "private":"<%=private%>",
